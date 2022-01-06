@@ -16,22 +16,30 @@ But before make sure have installed Java SDK and configured in the PATH environm
 <br>
 <b>Makefile</b><br>
 To compile and run in linux execute the below commands in the terminal.
-```
+
+<br><br>
 Compile
+
+```
 $ make
-````
 ```
+
 Generate the jar file
+```
 $ make build
-````
 ```
+
 Run the java game
-$ make run
-````
 ```
+$ make run
+```
+
 Clean the bin folder
+```
 $ make clean
-````
+```
+
+<br>
 
 ![](./img/img-03.png)
 
